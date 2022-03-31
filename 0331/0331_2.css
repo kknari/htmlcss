@@ -94,3 +94,16 @@ section {
     color: #282828;
     padding-left: 16px;
 }
+
+.title-box: {
+    text-align: right;
+}
+
+.sns-img {
+    width: 40px;
+    height: 40px;
+}
+
+.sns-wrap {
+    text-align: right;
+}
