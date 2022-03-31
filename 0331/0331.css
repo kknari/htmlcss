@@ -1,0 +1,19 @@
+.copyright {
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+
+p{
+    font-size: 30px;
+
+}
+
+.big-font { /*big-font라는 class 꾸밈*/
+    font-size: 40px;
+}
+
+.small-font {
+    font-size: 15px;
+}
