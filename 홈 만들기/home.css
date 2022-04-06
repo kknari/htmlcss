@@ -92,7 +92,14 @@ h2 {
 .me-text {
     float: right;
     margin-left: 800px;
+}
 
-.text {
-    margin-bottom: 30px;
+.sub-text {
+    font-weight: lighter;
+    font-size: 20px;
+    color: #a0a0a0;
+    font-family: 'CBNUJIKJI';
+    font-style: italic;
+    padding-left: 20px;
+    margin-bottom: 20px;
 }
