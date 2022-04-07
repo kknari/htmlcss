@@ -104,10 +104,13 @@ h2 {
     margin-bottom: 20px;
 }
 
-.sns {
-    font-family: 'CBNUJIKJI';
+.github-img {
+    width: 300px;
+    float: left;
 }
 
-.sns-img {
-    width: 300px;
+.insta-img {
+    width: 600px;
+    display: block;
+    margin: 0 auto;
 }
