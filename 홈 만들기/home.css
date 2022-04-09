@@ -128,3 +128,9 @@ h2 {
     height: 100vh;
     margin: 30px;
 }
+
+.me-pic {
+    width: 650px;
+    display: block;
+    margin: auto;
+}
